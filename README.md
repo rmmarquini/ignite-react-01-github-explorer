@@ -10,7 +10,7 @@
 
 > In this module we will create the base structure of a React application using tools such as Webpack, Babel, Webpack Dev server, SASS, Source Maps, Fast Refresh and we will discover important React concepts such as components, properties, states, and hooks. In addition, we will set up TypeScript in our project to add static typing to the application.
 
-* Result: [Github Explorer](https://ignite-github-explorer.vercel.app/)
+* Result: [Github Explorer](https://ignite-react-01-github-explorer-pi.vercel.app/)
 
 ### Challenges
 
